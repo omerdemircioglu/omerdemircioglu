@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omer Demircioglu
 - ✍ Chemical Engineering, BSc & Mechatronics Engineering, MSc
-- 👀 I’m interested in .Net, C, C++, Python, Assembly, Verilog, Matlab, Labview
+- 👀 I’m interested in .Net, C, C++, Python, Assembly, Verilog, Matlab, Labview, FPGA
 - 🌱 I’m currently learning C, C++, Java
 - 💞️ I’m looking to collaborate on Java, Kotlin, Flutter, FrontEnd, BackEnd Development
 - 📫 Reach me on omer.demircioglu@boun.edu.tr
