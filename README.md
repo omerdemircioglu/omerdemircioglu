@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omer Demircioglu
-- ✍ Chemical Engineering, BSc & Mechatronics Engineering, MSc
+- ✍ Chemical Engineer, BSc | Mechatronics Engineer, MSc | Management Information Systems, BSc 
 - 👀 I’m interested in .Net, C, C++, Python, Assembly, Verilog, Matlab, Labview, FPGA
 - 🌱 I’m currently learning C, C++, Java
 - 💞️ I’m looking to collaborate on Java, Kotlin, Flutter, FrontEnd, BackEnd Development
